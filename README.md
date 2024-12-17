@@ -6,10 +6,11 @@ Boas vindas ao meu GitHub!
 
 Atualmente estou em transição de carreira para ser Desenvolvedor Front-end.
 
-Já desenvolvi projetos com HTML, CSS e JavaScript.
+Desenvolvi projetos com HTML, CSS e JavaScript.
 <br>
 <br>
 Estou me aprofundando em JavaScript para dominar esta tecnologia.
+Na sequência, vou aprender React!
 
 :milky_way:
 
