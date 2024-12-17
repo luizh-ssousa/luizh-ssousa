@@ -10,6 +10,8 @@ Desenvolvi projetos com HTML, CSS e JavaScript.
 <br>
 <br>
 Estou me aprofundando em JavaScript para dominar esta tecnologia.
+<br>
+<br>
 Na sequência, vou aprender React!
 
 :milky_way:
